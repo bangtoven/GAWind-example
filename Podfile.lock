@@ -1,0 +1,16 @@
+PODS:
+  - GAWindTemplate (0.5.1):
+    - STK
+    - TheAmazingAudioEngine
+  - STK (4.5.3)
+  - TheAmazingAudioEngine (1.4.6)
+
+DEPENDENCIES:
+  - GAWindTemplate
+
+SPEC CHECKSUMS:
+  GAWindTemplate: cf29b7d8493508266bb03ed0223bf0946e0a34ab
+  STK: 67bd2cb1a6e128502aec118d6d6774e4b3ab28b5
+  TheAmazingAudioEngine: 174889dc95c6a8a654375215e13a7db61a561fa4
+
+COCOAPODS: 0.35.0

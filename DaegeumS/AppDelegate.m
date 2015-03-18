@@ -12,7 +12,7 @@
 
 - (void)initialize:(GAPlayViewController *)pvc
 {
-//    [pvc setNeedsUpDownOctave:YES];
+    [pvc setNeedsUpDownOctave:YES];
 }
 
 @end
